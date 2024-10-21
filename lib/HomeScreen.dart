@@ -8,7 +8,7 @@ class Homescreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.blue,
       appBar: AppBar(
-        backgroundColor: Colors.blue[300],
+        backgroundColor: Colors.blue[150],
         title: Text('Chats'),
       ),
       body: const Center(
